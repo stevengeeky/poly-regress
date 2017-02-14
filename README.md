@@ -22,7 +22,7 @@ Visualize how deep learning works with a very easy-to-use piece of polynomial re
 * Having a learning rate which is too high can also cause divergence; you can change this in poly.py at the top of the file.
 * A linear transformation is applied to the original set of points in order to make it possible to discover a solution for all set of points. You can visualize this with the transformation of the red line as regression takes place.
 
-# Requirements
+## Requirements
 * Python 2 or 3, either should work just fine
 * TensorFlow, latest release
 * Matplotlib, latest release
