@@ -2,6 +2,8 @@
 
 A lightweight polynomial regressor created with TensorFlow.
 
+![Graph](https://raw.githubusercontent.com/stevengeeky/poly-regress/master/images/graph.png)
+
 ## About
 
 Visualize how deep learning works with a very easy-to-use piece of polynomial regression software. Most to all of modern deep learning techniques utilize the basic idea of tweaking coefficients in a polynomial in order to fit an approximated dataset to an actual one. This project takes that idea literally, and applies deep learning to fit a polynomial to a set of points.
